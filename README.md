@@ -1,4 +1,5 @@
-## Hi there 👋
+
+[![image](https://github.com/user-attachments/assets/3e37fcfd-5657-4b9d-95f6-80b564699e3f)](https://ayushmaurya.vercel.app)
 
 <!--START_SECTION:waka-->
 
