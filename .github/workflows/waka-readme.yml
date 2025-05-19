@@ -23,7 +23,6 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: ░▒▓  # optional
-          CODE_LANG: JavaScript # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
@@ -34,7 +33,4 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: the_t3ch_wizard # optional
           # you can populate email-id with secrets instead
