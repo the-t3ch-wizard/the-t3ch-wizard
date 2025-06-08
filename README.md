@@ -4,16 +4,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 06 June 2025
+From: 06 October 2024 - To: 07 June 2025
 
-Total Time: 647 hrs 36 mins
+Total Time: 648 hrs 51 mins
 
-TypeScript                 248 hrs 17 mins ▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░   38.15 %
-JavaScript                 212 hrs 16 mins ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   32.62 %
-Java                       153 hrs 17 mins ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░   23.55 %
+TypeScript                 248 hrs 17 mins ▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░   38.08 %
+JavaScript                 212 hrs 16 mins ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   32.56 %
+Java                       154 hrs 12 mins ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░   23.65 %
 Java Properties            6 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 HTML                       5 hrs 46 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-XML                        5 hrs 24 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+XML                        5 hrs 43 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 JSON                       4 hrs 7 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 Other                      3 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
