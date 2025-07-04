@@ -4,16 +4,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 02 July 2025
+From: 06 October 2024 - To: 03 July 2025
 
-Total Time: 722 hrs 25 mins
+Total Time: 723 hrs 8 mins
 
-TypeScript                 264 hrs 3 mins  ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   36.38 %
-JavaScript                 212 hrs 28 mins ▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░   29.27 %
-Java                       194 hrs 56 mins ▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░   26.86 %
-Java Properties            11 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-XML                        10 hrs 6 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-HTML                       5 hrs 46 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+TypeScript                 264 hrs 3 mins  ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   36.34 %
+JavaScript                 212 hrs 28 mins ▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░   29.24 %
+Java                       195 hrs 27 mins ▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░   26.90 %
+Java Properties            11 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+XML                        10 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+HTML                       5 hrs 46 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 YAML                       5 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 JSON                       4 hrs 48 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 Other                      3 hrs 25 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
