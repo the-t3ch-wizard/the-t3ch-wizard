@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 26 August 2025
+From: 06 October 2024 - To: 27 August 2025
 
-Total Time: 808 hrs 17 mins
+Total Time: 808 hrs 28 mins
 
 TypeScript                 277 hrs 23 mins ▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░   34.17 %
-Java                       259 hrs 56 mins ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   32.02 %
-JavaScript                 212 hrs 28 mins ▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░   26.18 %
+Java                       260 hrs 7 mins  ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   32.04 %
+JavaScript                 212 hrs 28 mins ▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░   26.17 %
 XML                        12 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 Java Properties            12 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 YAML                       6 hrs 55 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
