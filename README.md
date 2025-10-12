@@ -2,7 +2,7 @@
 [![image](https://github.com/user-attachments/assets/3e37fcfd-5657-4b9d-95f6-80b564699e3f)](https://ayushmaurya.vercel.app)
 
 <!--START_SECTION:waka-->
-
+<!--
 ```txt
 From: 06 October 2024 - To: 11 October 2025
 
@@ -18,7 +18,7 @@ HTML                       6 hrs 57 mins   ░░░░░░░░░░░░�
 JSON                       4 hrs 49 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 Other                      3 hrs 25 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
-
+-->
 <!--END_SECTION:waka-->
 
 <!--
